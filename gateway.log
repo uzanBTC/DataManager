@@ -1,0 +1,12 @@
+Connection to SQL server established
+A seneor node with ID=112 has opend a new connection success
+A seneor node with ID=129 has opend a new connection success
+A seneor node with ID=132 has opend a new connection success
+New table SensorData created
+A seneor node with ID=132 has closed success
+The sensor node with <sensorNodeID 132> reports room 13 too cold running avg temperature = <3.000000>
+The sensor node with <sensorNodeID 132> reports room 13 too cold running avg temperature = <3.000000>
+A seneor node with ID=112 has closed success
+A seneor node with ID=129 has closed success
+The sensor node with <sensorNodeID 112> reports room 11 too cold running avg temperature = <15.925811>
+The sensor node with <sensorNodeID 112> reports room 11 too cold running avg temperature = <15.946094>
